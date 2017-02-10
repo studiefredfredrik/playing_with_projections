@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleTools.cs" />
     <Compile Include="Event.cs" />
     <Compile Include="EventReaders.cs" />
     <Compile Include="JsonEventParser.cs" />
